@@ -1,0 +1,50 @@
+.text-gold {
+    color: #ffd700 !important;
+    /* Color dorado */
+  }
+
+  .dropdown-item {
+    color: #ffd700; /* Color dorado */
+  }
+
+  .nav-item{
+    color: #ffd700; 
+  }
+
+ .nav-link{
+    color: #ffd700;
+    
+  }
+
+  .nav-link:hover {
+    color: dimgrey
+  }
+
+  body{
+    background-color:black;
+  }
+
+  .dropdown-menu {
+    background-color: #333; /* o cualquier otro color oscuro que prefieras */
+    color: #fff; /* opcional, para cambiar el color del texto */
+  }
+
+
+  .card-body {
+    background-color: #333; /* o cualquier otro color oscuro que prefieras */
+    color: #fff; /* opcional, para cambiar el color del texto */
+  }
+
+  .btn-dark:hover {
+    background-color: #ffd700; /* color dorado */
+    border-color: #ffd700;
+    color: black;
+  }
+
+  nav {
+    height: 70px;
+  }
+
+  .btn-salir {
+    margin-top: auto;
+  }

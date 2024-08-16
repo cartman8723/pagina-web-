@@ -1,0 +1,24 @@
+.text-gold {
+        color: #F8E231; /* Color dorado */
+    }
+    
+    .bg-dark {
+        background-color: #333; /* Color negro */
+    }
+    
+    .btn-gold {
+        background-color: #F8E231; /* Color dorado */
+        color: #333; /* Color negro */
+        border-color: #F8E231; /* Color dorado */
+    }
+    
+    .btn-gold:hover {
+        background-color: #F2C464; /* Color dorado claro */
+        border-color: #F2C464; /* Color dorado claro */
+    }
+
+
+    body {
+        background-image: url('/assets/img/fondo_login.jpg');
+        
+    }
